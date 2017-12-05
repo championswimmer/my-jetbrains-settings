@@ -5,9 +5,6 @@
     <option name="LINE_SPACING" value="1.2" />
     <option name="USE_LIGATURES" value="true" />
   </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />

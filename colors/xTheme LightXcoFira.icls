@@ -4,7 +4,7 @@
     <property name="created">2017-10-29T21:22:33</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2017-11-26T19:14:57</property>
+    <property name="modified">2017-12-05T14:34:40</property>
     <property name="originalScheme">Xcode inspired copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -341,7 +341,8 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="575316" />
+        <option name="BACKGROUND" value="ebf6f9" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -427,6 +428,12 @@
       <value>
         <option name="FOREGROUND" value="340dd4" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="8856a5" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
