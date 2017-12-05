@@ -1,0 +1,10 @@
+<templateSet group="Bootstrap3">
+  <template name="bs3-media-object" value="&lt;div class=&quot;media&quot;&gt;&#10;  &lt;a class=&quot;media-left&quot; href=&quot;#&quot;&gt;&#10;    &lt;img src=&quot;http://placehold.it/64x64&quot; style=&quot;width: 64px; height: 64px;&quot;&gt;&#10;  &lt;/a&gt;&#10;  &lt;div class=&quot;media-body&quot;&gt;&#10;    &lt;h4 class=&quot;media-heading&quot;&gt;$var1$&lt;/h4&gt;&#10;    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.&#10;  &lt;/div&gt;&#10;&lt;/div&gt;$END$&#10;" description="Media object (single entry)" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

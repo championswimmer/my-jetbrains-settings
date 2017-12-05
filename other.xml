@@ -1,0 +1,56 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/bin/ts-node">
+      <version-cache last-modified="1500918888000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v9.2.0/bin/node">
+      <version-cache version="9.2.0" last-modified="1510692949000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.2.0" last-modified="1511452847000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.1/bin/node">
+      <version-cache version="8.9.1" last-modified="1510090689000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.9.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.10.1/bin/node">
+      <version-cache version="7.10.1" last-modified="1499740951000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.12.0/bin/node">
+      <version-cache version="6.12.0" last-modified="1510006347000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.8.6/bin/node">
+      <version-cache version="4.8.6" last-modified="1510001085000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="8.1.2" last-modified="1498135089000" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9ddf9ddfccdf9fdfccdf9bdf9edfcfdf9bdf93dfcedf93dfc8dfcbdf93df9ddf9adf9fdfcedf99df93df92df9bdf93df9fdf98df9fdf93df9ddf9edf9cdfccdf92df9ddfcbdf9bdf93df93df98dfcc</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="coding-blocks" />
+      <option name="repoName" value="oneauth" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>

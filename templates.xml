@@ -1,0 +1,12 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Handlebars" />
+          <option name="key" value="itar" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

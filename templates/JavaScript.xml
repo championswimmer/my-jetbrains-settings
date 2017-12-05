@@ -1,0 +1,28 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log($OUTPUT$);" description="Console log" toReformat="false" toShortenFQNames="true">
+    <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="import" value="import $MODULE$ from '$MODULE$';" description="Es6 Imports" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="info" value="console.info($OUTPUT$);" description="Console info" toReformat="false" toShortenFQNames="true">
+    <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($END$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
