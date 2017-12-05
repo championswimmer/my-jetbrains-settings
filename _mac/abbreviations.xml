@@ -1,0 +1,11 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ShowUmlDiagram" />
+      <action id="uuidgenerator.random" />
+      <action id="JS.TypeScript.Compile">
+        <abbreviation name="tsc" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
