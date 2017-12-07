@@ -38,7 +38,7 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="-c" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
