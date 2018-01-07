@@ -1,39 +1,40 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="index" type="HTML" />
-      <mapping ext="hb" type="Handlebars/Mustache" />
       <mapping pattern=".bithoundrc" type="JSON" />
       <mapping pattern=".webmanifest" type="JSON" />
       <mapping pattern=".slugignore" type="PLAIN_TEXT" />
       <mapping pattern="addclient.hbs" type="PLAIN_TEXT" />
       <mapping pattern="lib" type="PLAIN_TEXT" />
-      <mapping pattern="how to use express" type="PLAIN_TEXT" />
       <mapping pattern="2016-08-15-learn-to-code-early" type="PLAIN_TEXT" />
+      <mapping pattern="how to use express" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="rakefile" type="PLAIN_TEXT" />
       <mapping pattern=".codebeatignore" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping ext="bench" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
+      <mapping ext="stdin" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="hb" type="Handlebars/Mustache" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
