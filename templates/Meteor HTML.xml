@@ -1,0 +1,6 @@
+<templateSet group="Meteor HTML">
+  <template name="temp:name" value="&lt;template name=&quot;$VAR0$&quot;&gt;&#10;$END$&#10;&lt;/template&gt;" description="&lt;template name=&quot;&quot;&gt;...&lt;/template&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

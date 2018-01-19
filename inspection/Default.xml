@@ -1,3 +1,4 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-</inspections>
+  <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
+</profile>
