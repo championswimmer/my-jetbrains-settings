@@ -2,6 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="HBS File.hbs" reformat="true" live-template-enabled="true" />
+      <template name="HBS File (no meta).hbs" reformat="true" live-template-enabled="true" />
       <template name="Sequelize Model (Typescript).ts" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
