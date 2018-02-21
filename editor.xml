@@ -1,12 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Fira Code" />
-    <option name="LINE_SPACING" value="1.2" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+    <option name="FONT_SIZE" value="24" />
+    <option name="FONT_SCALE" value="2.0" />
   </component>
 </application>
