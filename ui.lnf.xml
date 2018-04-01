@@ -1,10 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="San Francisco Display" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="15" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="FONT_FACE" value=".SF NS Text" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>

@@ -1,12 +1,5 @@
 <application>
-  <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
-    <option name="confirmExit" value="false" />
-    <option name="reopenLastProject" value="false" />
-    <option name="showTipsOnStartup" value="false" />
-  </component>
   <component name="Registry">
-    <entry key="dumb.aware.run.configurations" value="true" />
-    <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="debugger.click.disable.breakpoints" value="true" />
   </component>
 </application>
