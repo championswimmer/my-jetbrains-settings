@@ -31,6 +31,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="1" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <DBN-PSQL>
