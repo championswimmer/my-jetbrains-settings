@@ -1,9 +1,6 @@
 <templateSet group="Markdown">
-  <template name=".toc" value="[TOC]: # &quot; $END$&quot;&#10;&#10;&#10;" description="Table of Contents [TOC]: #" toReformat="false" toShortenFQNames="false">
-    <context />
-  </template>
+  <template name=".toc" value="[TOC]: # &quot; $END$&quot;&#10;&#10;&#10;" description="Table of Contents [TOC]: #" toReformat="false" toShortenFQNames="false" />
   <template name=".emoji" value=":$SHORTCUT$: $END$" description=":shortcut:" toReformat="false" toShortenFQNames="false">
     <variable name="SHORTCUT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
