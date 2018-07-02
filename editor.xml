@@ -1,4 +1,7 @@
 <application>
+  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="qualificationType" value="On collisions" />
   </component>

@@ -1,5 +1,5 @@
 <application>
-  <component name="WebBrowsersConfiguration">
+  <component name="WebBrowsersConfiguration" default="first">
     <browser id="c8241636-769a-43e9-8ea1-ffe27c9315f4" name="Waterfox" family="FIREFOX" path="/Applications/Waterfox.app" />
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" />
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" path="/Applications/FirefoxDeveloperEdition.app" />
