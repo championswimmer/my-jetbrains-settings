@@ -1,0 +1,23 @@
+<templateSet group="Angular">
+  <template name="a-routerLink" value="[routerLink]=&quot;['/$routePath$']&quot;$END$" description="Angular routerLink" toReformat="true" toShortenFQNames="true">
+    <variable name="routePath" expression="" defaultValue="&quot;routePath&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="a-routerLink-param" value="[routerLink]=&quot;['$routePath$', $routeParameterValue$$END$]&quot;" description="Angular routerLink with a route parameter" toReformat="true" toShortenFQNames="true">
+    <variable name="routePath" expression="" defaultValue="&quot;routePath&quot;" alwaysStopAt="true" />
+    <variable name="routeParameterValue" expression="" defaultValue="&quot;routeParameterValue&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="a-prej" value="&lt;pre&gt;{{$1$ | json}}&lt;/pre&gt;$END$" description="Angular pre debug | json" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="a-service-httpclient" value="import { Injectable } from '@angular/core';&#10;import { HttpClient } from '@angular/common/http';&#10;&#10;@Injectable()&#10;export class $ServiceName$Service {&#10; constructor(private httpClient: HttpClient) { }&#10; $END$&#10;}" description="Angular service with HttpClient" toReformat="true" toShortenFQNames="true">
+    <variable name="ServiceName" expression="" defaultValue="&quot;ServiceName&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="a-http-interceptor-logging" value="import { HttpInterceptor, HttpHandler, HttpRequest, HttpEvent, HttpResponse } from '@angular/common/http';&#10;import { Observable } from 'rxjs/Observable';&#10;import 'rxjs/add/operator/do';&#10;&#10;export class LogInterceptor implements HttpInterceptor {&#10; constructor() {}&#10;&#10; intercept(req: HttpRequest&lt;any&gt;, next: HttpHandler): Observable&lt;HttpEvent&lt;any&gt;&gt; {&#10;  const started = Date.now();&#10;  return next.handle(req).do(event =&gt; {&#10;   if (event instanceof HttpResponse) {&#10;    const elapsed = Date.now() - started;&#10;    console.log(`Request for \${req.urlWithParams} took \$elapsed$ ms.`);&#10;   }&#10;  });&#10; }&#10;}" description="Angular HttpInterceptor for Logging HttpClient" toReformat="true" toShortenFQNames="true">
+    <variable name="elapsed" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

@@ -1,5 +1,6 @@
 <templateSet group="Ember.js - Templates">
   <template name="linkto" value="{{#link-to &quot;$TARGET$&quot;}}$END${{/link-to}}" description="Surround with link-to block" toReformat="true" toShortenFQNames="false">
     <variable name="TARGET" expression="" defaultValue="&quot;target&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>

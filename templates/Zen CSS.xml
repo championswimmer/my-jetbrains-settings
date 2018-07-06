@@ -1,0 +1,10 @@
+<templateSet group="Zen CSS">
+  <template name="bxsh" value="box-shadow: $VAR0$ $VAR1$ $VAR2$ $VAR3$ $VAR4$;" description="box-shadow:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;inset&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;hoff&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;voff&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;blur&quot;" alwaysStopAt="true" />
+    <variable name="VAR4" expression="" defaultValue="&quot;color&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

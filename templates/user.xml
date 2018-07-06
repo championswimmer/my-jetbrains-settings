@@ -1,0 +1,10 @@
+<templateSet group="user">
+  <template name="addModel" value="export const $NAME$ =&#10;    db.define&lt;$NAME$Instance, $NAME$Attributes&gt;(&#10;        '$SNAKENAME$',&#10;        $SMALLNAME$Attrs&#10;    )" description="Add Sequelize Model" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SMALLNAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <variable name="SNAKENAME" expression="snakeCase(SMALLNAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

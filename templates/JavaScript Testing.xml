@@ -1,0 +1,6 @@
+<templateSet group="JavaScript Testing">
+  <template name="descr" value="describe('$NAME$', function() {&#10;  $END$&#10;});" description="Inserts describe() block" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
