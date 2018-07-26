@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+</keymap>
