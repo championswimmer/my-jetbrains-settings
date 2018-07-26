@@ -3,6 +3,5 @@
     <variable name="handler" expression="" defaultValue="&quot;handler&quot;" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="&quot;arg&quot;" alwaysStopAt="true" />
     <variable name="event" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
