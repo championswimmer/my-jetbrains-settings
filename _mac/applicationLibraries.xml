@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/luxon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
