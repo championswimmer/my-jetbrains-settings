@@ -4,7 +4,7 @@
     <property name="created">2017-10-29T21:22:33</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2018-06-29T16:32:59</property>
+    <property name="modified">2018-06-29T16:36:53</property>
     <property name="originalScheme">Xcode inspired copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -198,7 +198,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="1d8711" />
+        <option name="FOREGROUND" value="6ea7a1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -271,7 +271,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -3065,7 +3065,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -13046,7 +13046,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="e2ffe0" />
       </value>
     </option>
@@ -19244,7 +19244,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="e0fff9" />
       </value>
     </option>
@@ -25442,7 +25442,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="fff8e6" />
       </value>
     </option>
@@ -31572,7 +31572,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_ID">
@@ -37499,7 +37499,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="d8f0d5" />
       </value>
     </option>
@@ -43697,7 +43697,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="d7f5ee" />
       </value>
     </option>
@@ -49895,7 +49895,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="f5efdf" />
       </value>
     </option>
@@ -56093,7 +56093,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="68ae69" />
+        <option name="FOREGROUND" value="8dae88" />
         <option name="BACKGROUND" value="f5f5f5" />
       </value>
     </option>

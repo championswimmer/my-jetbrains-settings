@@ -2,17 +2,17 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="alt button1" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="down" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
-  </action>
-  <action id="QuickEvaluateExpression">
-    <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />

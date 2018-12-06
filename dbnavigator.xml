@@ -1,4 +1,9 @@
 <application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
     <browser-settings>
@@ -85,6 +90,7 @@
     <dataset-grid-settings>
       <general>
         <enable-zooming value="true" />
+        <enable-column-tooltip value="true" />
       </general>
       <sorting>
         <nulls-first value="true" />
@@ -133,6 +139,7 @@
           <content-type name="JavaScript" enabled="true" />
           <content-type name="ASP" enabled="true" />
           <content-type name="YAML" enabled="true" />
+          <content-type name="Bash" enabled="true" />
         </content-types>
       </qualified-text-editor>
       <record-navigation>
@@ -143,6 +150,8 @@
       <general>
         <show-object-navigation-gutter value="false" />
         <show-spec-declaration-navigation-gutter value="true" />
+        <enable-spellchecking value="true" />
+        <enable-reference-spellchecking value="false" />
       </general>
       <confirmations>
         <save-changes value="false" />
