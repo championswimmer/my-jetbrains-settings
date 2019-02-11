@@ -1,0 +1,23 @@
+<application>
+  <component name="FlutterJsonBeanFactorySettings">
+    <option name="scanFileSetting">
+      <list>
+        <array>
+          <option value="entity" />
+          <option value="static T generateOBJ&lt;T&gt;(json) {" />
+          <option value=".fromJson(json) as T;" />
+        </array>
+        <array>
+          <option value="" />
+          <option value="" />
+          <option value="" />
+        </array>
+        <array>
+          <option value="" />
+          <option value="" />
+          <option value="" />
+        </array>
+      </list>
+    </option>
+  </component>
+</application>
