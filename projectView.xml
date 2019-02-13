@@ -1,5 +1,6 @@
 <application>
   <component name="ProjectViewSharedSettings">
+    <option name="abbreviatePackages" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="manualOrder" value="true" />
   </component>
