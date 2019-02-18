@@ -1,3 +1,5 @@
 <templateSet group="plain">
-  <template name="psfs" value="public static final String " description="public static final String" toReformat="false" toShortenFQNames="false" />
+  <template name="psfs" value="public static final String " description="public static final String" toReformat="false" toShortenFQNames="false">
+    <context />
+  </template>
 </templateSet>
