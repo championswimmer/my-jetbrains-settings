@@ -4,7 +4,7 @@
     <property name="created">2017-10-29T21:22:33</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2018-06-29T16:36:53</property>
+    <property name="modified">2019-03-18T15:22:33</property>
     <property name="originalScheme">Xcode inspired copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -17,6 +17,7 @@
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="b5d5ff" />
     <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
+    <option name="MODIFIED_LINES_COLOR" value="95b4e8" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="b5d5ff" />
     <option name="SELECTION_BACKGROUND" value="b5d5ff" />
