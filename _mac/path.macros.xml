@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/c1/zshxz7l9447ff5pg0p7jpmk40000gp/T/AppTranslocation/23E8318B-39EA-45FF-9F09-192EB18F8866/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/c1/zshxz7l9447ff5pg0p7jpmk40000gp/T/AppTranslocation/666304BC-19AE-4B5D-8E15-0D4C25454DD0/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/championswimmer/.m2/repository" />
     <macro name="OutputPath" value="out" />
     <ignoredMacro name="MESSAGE" />
