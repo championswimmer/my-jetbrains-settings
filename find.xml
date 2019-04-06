@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'android_gradle'" />
+    <option name="defaultScopeName" value="Project 'android_gradle'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'android_gradle'" />
     <option name="FILE_MASK" value="*.pro" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
