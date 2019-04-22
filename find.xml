@@ -17,7 +17,7 @@
     <mask>*.java</mask>
     <mask>*.pro</mask>
     <mask>*.txt</mask>
-    <mask>*.gradle</mask>
     <mask>*Jumbo*</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
