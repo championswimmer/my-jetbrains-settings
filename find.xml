@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'consumerResKit'" />
-    <option name="defaultScopeName" value="Module 'consumerResKit'" />
-    <option name="SEARCH_SCOPE" value="Module 'consumerResKit'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,11 +14,11 @@
     <mask>*.vue</mask>
     <mask>*.kt</mask>
     <mask>build.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.pro</mask>
     <mask>*.txt</mask>
     <mask>*Jumbo*</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
