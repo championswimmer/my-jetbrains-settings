@@ -26,6 +26,7 @@
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="hb" type="Handlebars/Mustache" />
