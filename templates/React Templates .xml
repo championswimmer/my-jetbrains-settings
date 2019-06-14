@@ -3,7 +3,6 @@
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HAML" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
