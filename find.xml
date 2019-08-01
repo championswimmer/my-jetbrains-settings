@@ -18,7 +18,7 @@
     <mask>*.java</mask>
     <mask>*Data.*</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
