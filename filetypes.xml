@@ -25,6 +25,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
+      <mapping pattern="tab_text_color" type="XML" />
       <mapping ext="sdef" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="hb" type="Handlebars/Mustache" />
