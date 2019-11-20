@@ -1,4 +1,9 @@
 <application>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ENABLED" value="false" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
