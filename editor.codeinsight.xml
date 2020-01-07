@@ -1,6 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-  </component>
-</application>
