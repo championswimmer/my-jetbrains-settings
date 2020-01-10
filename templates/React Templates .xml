@@ -2,6 +2,5 @@
   <template name="rtr" value="rt-repeat=&quot;$ITEM$ in $ITEMS$&quot; $END$" description="A RT repeat template" toReformat="false" toShortenFQNames="true">
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEMS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
