@@ -5,5 +5,10 @@
         <option name="showCalleesList" value="false" />
       </call-tree-ui>
     </option>
+    <option name="flameGraphState">
+      <flame-graph-ui>
+        <option name="focusOnSearch" value="true" />
+      </flame-graph-ui>
+    </option>
   </component>
 </application>
