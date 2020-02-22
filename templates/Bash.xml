@@ -1,20 +1,25 @@
 <templateSet group="Bash">
   <template name="if" value="if $test$; then&#10;    $END$&#10;fi" description="if statement" toReformat="false" toShortenFQNames="false">
     <variable name="test" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="ife" value="if $test$; then&#10;    $cmd$&#10;else &#10;    $END$&#10;fi" description="if-else statement" toReformat="false" toShortenFQNames="false">
     <variable name="test" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
     <variable name="cmd" expression="" defaultValue="&quot;echo&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="while" value="while $test$; do&#10;    $END$&#10;done" description="while-loop" toReformat="false" toShortenFQNames="false">
     <variable name="test" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="until" value="until $test$; do&#10;    $END$;&#10;done" description="until-loop" toReformat="false" toShortenFQNames="false">
     <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="she" value="#!$ENV$ $BASH$" description="shebang line" toReformat="false" toShortenFQNames="false">
     <variable name="ENV" expression="" defaultValue="&quot;/usr/bin/env&quot;" alwaysStopAt="false" />
     <variable name="BASH" expression="enum(&quot;bash&quot;,&quot;sh&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="ifee" value="if $test$; then&#10;    $cmd$&#10;elif $test2$; then&#10;    $cmd2$    &#10;else &#10;    $cmd3$&#10;fi" description="if-elsif-else statement" toReformat="false" toShortenFQNames="false">
     <variable name="test" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
@@ -22,5 +27,6 @@
     <variable name="test2" expression="" defaultValue="&quot;test&quot;" alwaysStopAt="true" />
     <variable name="cmd2" expression="" defaultValue="&quot;echo&quot;" alwaysStopAt="true" />
     <variable name="cmd3" expression="" defaultValue="echo" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
