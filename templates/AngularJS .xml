@@ -5,7 +5,6 @@
     <variable name="directiveAttrs" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HAML" value="false" />
-      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
