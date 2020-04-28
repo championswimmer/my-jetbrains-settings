@@ -5,4 +5,7 @@
   <component name="LiveEditOptions" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
