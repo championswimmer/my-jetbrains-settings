@@ -5,6 +5,9 @@
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="ForceRefresh">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
