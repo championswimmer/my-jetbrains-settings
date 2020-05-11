@@ -5,6 +5,5 @@
     <variable name="VAR2" expression="" defaultValue="&quot;voff&quot;" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="&quot;blur&quot;" alwaysStopAt="true" />
     <variable name="VAR4" expression="" defaultValue="&quot;color&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
