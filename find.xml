@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,6 +16,7 @@
     <mask>*.mxml</mask>
     <mask>*.vue</mask>
     <mask>*.gradle</mask>
+    <mask>strings*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
