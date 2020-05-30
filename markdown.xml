@@ -1,5 +1,10 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only" />
+    <MarkdownCssSettings StylesheetUri="" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show editor only">
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="JCEF Browser" className="org.intellij.plugins.markdown.ui.preview.jcef.JCEFHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </MarkdownPreviewSettings>
   </component>
 </application>
