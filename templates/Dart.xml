@@ -3,6 +3,5 @@
     <variable name="INDEX" expression="dartSuggestIndexName()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
     <variable name="ARRAY" expression="dartListVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="dartSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
