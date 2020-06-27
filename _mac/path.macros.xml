@@ -1,11 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/9x/1fnsjw9x60l0456b7pl62s3w0000gn/T/AppTranslocation/015FFC40-0545-4390-850B-19F7866CC4C1/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/championswimmer/.m2/repository" />
-    <macro name="OutputPath" value="out" />
-    <ignoredMacro name="MESSAGE" />
-    <ignoredMacro name="FILE_PATH" />
-    <ignoredMacro name="LINE" />
-    <ignoredMacro name="COLUMN" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/championswimmer/Library/Application Support/JetBrains/IntelliJIdea2020.2/plugins/Kotlin/kotlinc" />
   </component>
 </application>

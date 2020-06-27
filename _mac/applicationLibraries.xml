@@ -1,5 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="@coding-blocks/motley" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@coding-blocks_motley@0.3.44_dist_app.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@coding-blocks_motley@0.7.5_dist_dukaan_app.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@coding-blocks_motley@0.3.44_dist_app.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@coding-blocks_motley@0.7.5_dist_dukaan_app.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
