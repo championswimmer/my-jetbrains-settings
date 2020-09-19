@@ -1,7 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/Users/championswimmer/Library/Application Support/Google/AndroidStudioPreview4.2/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/championswimmer/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/Users/championswimmer/Library/Application Support/JetBrains/IntelliJIdea2020.1/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/championswimmer/Library/Application Support/JetBrains/IntelliJIdea2020.2/plugins/Kotlin/kotlinc" />
   </component>
 </application>
