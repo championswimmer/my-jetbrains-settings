@@ -1,0 +1,9 @@
+<templateSet group="Retrofit">
+  <template name="rget" value="@GET(&quot;$SMODEL$&quot;) fun get$MODEL$s(): Call&lt;Array&lt;$MODEL$&gt;&gt;" description="Retrofit get all function" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SMODEL" expression="decapitalize(MODEL)" defaultValue="decapitalize(MODEL)" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

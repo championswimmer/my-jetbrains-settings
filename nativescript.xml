@@ -1,0 +1,5 @@
+<application>
+  <component name="NsSettings">
+    <option name="executablePath" value="$USER_HOME$/.config/yarn/global/node_modules/.bin/tns" />
+  </component>
+</application>

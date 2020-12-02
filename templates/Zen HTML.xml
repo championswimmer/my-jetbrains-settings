@@ -1,0 +1,14 @@
+<templateSet group="Zen HTML">
+  <template name="br" value="&lt;br&gt;" description="&lt;br&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="hr" value="&lt;hr&gt;" description="&lt;hr&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

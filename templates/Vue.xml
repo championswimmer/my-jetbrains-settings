@@ -1,0 +1,7 @@
+<templateSet group="Vue">
+  <template name="von" value="@click=&quot;$handler$($arg$, $event$)&quot;" description="Vue v-on click handler with arguments" toReformat="true" toShortenFQNames="true">
+    <variable name="handler" expression="" defaultValue="&quot;handler&quot;" alwaysStopAt="true" />
+    <variable name="arg" expression="" defaultValue="&quot;arg&quot;" alwaysStopAt="true" />
+    <variable name="event" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>
