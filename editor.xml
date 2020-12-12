@@ -3,6 +3,9 @@
     <option name="FONT_SIZE" value="15" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
