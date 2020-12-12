@@ -1,6 +1,10 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="previousVersionMigrated" value="true" />
+    <option name="showBlameWidget" value="false" />
+    <option name="showChangesInStatusBar" value="false" />
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="showProjectViewStatus" value="false" />
     <option name="version" value="3" />
   </component>
 </application>
