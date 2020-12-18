@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17356205852674067" />
         <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.17356205852674067" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/fragment_article.xml" value="0.45" />
         <entry key="app/src/main/res/layout/fragment_auth.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_feed.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.19122098890010092" />
