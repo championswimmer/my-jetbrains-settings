@@ -1,8 +1,10 @@
 <application>
   <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
