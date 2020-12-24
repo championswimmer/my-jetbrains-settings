@@ -4,7 +4,7 @@
     <property name="created">2017-10-29T20:50:11</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.0.0.18</property>
-    <property name="modified">2020-06-28T06:44:02</property>
+    <property name="modified">2020-12-25T00:06:15</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -12,7 +12,7 @@
   <option name="EDITOR_FONT_NAME" value="JetBrainsMono Nerd Font" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrainsMono Nerd Font" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <attributes>
