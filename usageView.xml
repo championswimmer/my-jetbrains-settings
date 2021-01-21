@@ -1,5 +1,5 @@
 <application>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
+  <component name="UsageViewSettings">
+    <option name="IS_EXPANDED" value="true" />
   </component>
 </application>
