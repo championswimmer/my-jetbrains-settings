@@ -26,10 +26,13 @@
             <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
           </formatting-settings>
         </DBN-SQL>
-        <JSCodeStyleSettings>
+        <JSCodeStyleSettings version="0">
           <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
           <option name="FORCE_SEMICOLON_STYLE" value="true" />
         </JSCodeStyleSettings>
+        <MarkdownNavigatorCodeStyleSettings>
+          <option name="RIGHT_MARGIN" value="72" />
+        </MarkdownNavigatorCodeStyleSettings>
         <Objective-C-extensions>
           <file>
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -55,9 +58,22 @@
             <pair source="c" header="h" fileNamingConvention="NONE" />
           </extensions>
         </Objective-C-extensions>
+        <TypeScriptCodeStyleSettings version="0">
+          <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
+          <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+          <option name="SPACES_WITHIN_IMPORTS" value="true" />
+          <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+        </TypeScriptCodeStyleSettings>
         <editorconfig>
           <option name="ENABLED" value="false" />
         </editorconfig>
+        <codeStyleSettings language="TypeScript">
+          <indentOptions>
+            <option name="INDENT_SIZE" value="2" />
+            <option name="CONTINUATION_INDENT_SIZE" value="2" />
+            <option name="TAB_SIZE" value="2" />
+          </indentOptions>
+        </codeStyleSettings>
         <codeStyleSettings language="XML">
           <arrangement>
             <rules>
@@ -149,7 +165,6 @@
                       <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
                     </AND>
                   </match>
-                  <order>ANDROID_ATTRIBUTE_ORDER</order>
                 </rule>
               </section>
               <section>
