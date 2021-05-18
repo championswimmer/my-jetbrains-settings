@@ -2181,7 +2181,7 @@
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Design Tools" pluginId="com.android.tools.design" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
